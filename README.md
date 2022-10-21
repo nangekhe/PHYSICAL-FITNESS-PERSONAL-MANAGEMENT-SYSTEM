@@ -1,11 +1,10 @@
 # PHYSICAL-FITNESS-PERSONAL-MANAGEMENT-SYSTEM
-his is an online zetech voting system This is a campus based online voting system used by students to vote for their required leader and see a real time system.
+Physical fitness is a person’s ability to perform daily activities with optimal performance. Fitness management is an interdisciplinary field that blends scientific knowledge of exercise physiology and fitness studies with practical business skills thus an online application personal system is created to discover this.
 
+Physical Fitness Personal Management System
 Table of Contents
-E-voting-system
-Table of Contents
-Problem Statement
-Objectives
+research problem
+objectives
 Users
 Technologies
 [ Run website](#Run website)
@@ -14,9 +13,10 @@ Technical Requirements
 Non-functional requirements
 Functional Requirements
 Users Module
-[E-voting-system-log in system](#E-voting-system-log in system)
+[physical fitness PMS-log in system](#physical fitnes PMS-log in system)
 pages module
 Software Design Description
+
 User Interface Design
 Login Page
 Registration Page
@@ -25,8 +25,9 @@ voting Page
 Database package
 Users Table
 votes-Table
+
 Problem Statement
-An E-voting system that allows student to register,follow campaigns,commenting and voting their learders in. This will reduce time wastage ,and it will increase transparency to voters because its a real time voting system. Currently students vote using a voting website that is shared by a number of university and its not transparent and it doesn't allow the votes to know their leaders batter.This will reduce the rate of cheating among the students during the voting time.
+Owing to the rapid development of city, busier modern life without space to exercise, the gymnasium needs to exercise development. Regular forms of exercise reduce risk of mortal diseases such as heart disease and even depression .I have come up with an application that will make physical fitness easier to work on and how to improve the quality of personal management system in physical fitness areas such as the gymnasiums ,parks or even homes.
 
 Objectives
 The main objective of this project is to create an E-voting system web based application. This can broken down into:
