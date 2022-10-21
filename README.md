@@ -30,7 +30,9 @@ Problem Statement
 Owing to the rapid development of city, busier modern life without space to exercise, the gymnasium needs to exercise development. Regular forms of exercise reduce risk of mortal diseases such as heart disease and even depression .I have come up with an application that will make physical fitness easier to work on and how to improve the quality of personal management system in physical fitness areas such as the gymnasiums ,parks or even homes.
 
 Objectives
-The main objective of this project is to create an E-voting system web based application. This can broken down into:
+The main objective of this project is to create a physical fitness personal management system web based application. This can be broken down into:
+
+
 
 To create a users management module that will allow registration of students for voting purposes,login.
 To create a system that will allow users to follow along in the campaing.
