@@ -20,11 +20,10 @@ Software Design Description
 User Interface Design
 Login Page
 Registration Page
-campaign Page
-voting Page
-Database package
+work out activities page
+calories page
+summary page
 Users Table
-votes-Table
 
 Problem Statement
 Owing to the rapid development of city, busier modern life without space to exercise, the gymnasium needs to exercise development. Regular forms of exercise reduce risk of mortal diseases such as heart disease and even depression .I have come up with an application that will make physical fitness easier to work on and how to improve the quality of personal management system in physical fitness areas such as the gymnasiums ,parks or even homes.
