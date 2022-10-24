@@ -33,20 +33,21 @@ Objectives
 The main objective of this project is to create a physical fitness personal management system web based application. This can be broken down into:
 
 
+To create a user’s management module that will allow a personalized clients physical fitness activities, login.
+To create a system that will allow users to input target work out for the day 
+To create a system that will calculate the amount of calories lost during the work out
+To create a system that will show different types of physical fitness work outs
+Work out summary
 
-To create a users management module that will allow registration of students for voting purposes,login.
-To create a system that will allow users to follow along in the campaing.
-To create an voting system log in system that will allow users to votes and campaign.
-To create a real time project that when someone votes can see they voted for.
 Users
-campus students
+Trainers
+Clients 
 System administrators.
 Technologies
-The system we build on JAM stack with the following technologies
+The system used to build technologies include;
 
 Javascript -EJS
 HTML,SCSS
-MONGO DB
 Run Website
 To run this website
 
@@ -56,24 +57,26 @@ install dependancies
 npm install
 run the app
 npm start
+
 REQUIREMENTS SPECIFICATION
 Technical Requirements
-You need to use a phone or laptop to access the website.
+A phone or laptop can access the website.
 
 Non-functional requirements
 Data should be encrypted.
-The system should be light weight for ease of access and should within two seconds.
+The system should be light weight for ease of access and should within three seconds.
 Should be responsive to different screen sizes.
 Functional Requirements
 Users Module
 Registration
 login
 Password
-campaing module
-log in
-upload your campaign
-voting module
-you just get in to the page and vote
+Work out activities module
+Log in
+Work out 
+Calculate calories 
+After is the summary of the activity
+
 Software Design Description
 User Interface Design
 Landing Page
@@ -87,18 +90,24 @@ The Login Page Design: Login Page
 Registration Page
 The sign up design: Sign Up page
 
-Campaign page
-Campaign page
+Work out activities page
+Work out activities page
 
-Voting page
-voting page
+Calories page 
+Calories page
+
+Summary page
+Summary page
 
 Users Table
 Id - This will be auto increment which will the unique identifier for the user
-email - This will be a school email
-name first name and second name - User given name
-password - should be atleast 6 characters
-vote Table
-id
-person voted for
-voter id
+Name first name and second name - User given name
+Password - should be at least 6 characters
+Work out Table
+Day
+Activity done
+Calories lost
+Summary
+
+
+
