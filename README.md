@@ -34,9 +34,8 @@ Owing to the rapid development of city, busier modern life without space to exer
 
 - To create a user’s management module that will allow a personalized clients physical fitness activities, login.
 - To create a system that will allow users to input target work out for the day 
-- To create a system that will calculate the amount of calories lost during the work out
+- To create a system that will show the amount of calories on foods
 - To create a system that will show different types of physical fitness work outs
-- Work out summary
 
 ## Users
 Trainers
@@ -105,8 +104,8 @@ Password - should be at least 6 characters
 Work out Table
 Day
 Activity done
-Calories lost
-Summary
+
+
 
 
 
